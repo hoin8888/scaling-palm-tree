@@ -1,0 +1,5 @@
+{
+  "version": "2.0",
+  "apk_url": "https://github.com/your-username/your-repo/releases/download/v1.0.1/app-debug.apk",
+  "content": "1. 修复了18小时统计显示问题\n2. 优化了首页布局\n3. 增加了快速分析功能"
+}
