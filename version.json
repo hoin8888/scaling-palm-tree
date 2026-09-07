@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
+  "version": "2.0.1",
   "package_name": "com.attendance.app",
   "apk_url": "https://github.com/hoin8888/scaling-palm-tree/releases/download/v2.0/_2.0.apk",
-  "content": "1. 修复了18小时统计显示问题\n2. 优化了首页布局\n3. 增加了快速分析功能"
+  "content": "1. 增加备份数据功能\n2. 优化了首页布局\n3. 增加了快速分析功能"
 }
